@@ -55,6 +55,9 @@ Since this is not in the root of a domain... you must remove
 
 - learn from https://davidwalsh.name/twitter-cards
 - Add your own images / text
+- Example of Twitter Cards when link is a text message (iPhone)
+
+![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/iphone-twitter.jpg)
 
 
 ---
