@@ -2,6 +2,10 @@
 
 ## Darth Vader
 
+- View this repository on https://mrmccormack.github.io/1000-vader/
+
+
+
 ![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/darth-mobile-small.jpg)
 
 > Requirements for a professional website
@@ -86,7 +90,7 @@ Since this is not in the root of a domain... you must remove
 
 # Chrome Inspector Audit (Lighthouse)
 
-- Using Chrome Inspec
+- Using Chrome Inspector
 
 ---
 
