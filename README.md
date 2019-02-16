@@ -23,7 +23,8 @@
 > Note: this example has ALL of the requirements
 
 
-> Netlify to serve up Github pages
+---
+# Netlify to serve up Github pages
 
 - Github can be **SLOW** to update the web view of your HTML (maybe allows less than 10 updates per hour)
 - Github is **NOT** slow for making changes
@@ -34,7 +35,8 @@
 - https://1000-darth-vader.netlify.com/  (you can change the subdomain to anything you want)
 
 
-> Favicon - Favorite Icon...
+---
+# Favicon - Favorite Icon...
 
 1. Find a .png for your character at least 128x128 pixels
 2. Generate a bunch of icons and the necessary code with https://www.favicon-generator.org/
@@ -42,21 +44,25 @@
 4. Download all the gnerated icons
 5. add all the icons to your repository - replacing the Darth Vader Icons
 
-> IMPORTANT
+---
+# IMPORTANT
 Since this is not in the root of a domain... you must remove
 
-> Twitter Cards
+---
+# Twitter Cards
 
 - learn from https://davidwalsh.name/twitter-cards
 - Add your own images / text
 
 
-> Fresh Ping Website Monitor
+---
+# Fresh Ping Website Monitor
 1. Set up your own FreshPing monitoring account https://www.freshworks.com/website-monitoring/
 2. Create your own FreshPing pubic status page https://statuspage.freshping.io/5040-mrmccormackdarthvaderpage1000
 
 
-> Google Analytics
+---
+# Google Analytics
 
 1. Add Google Analytics to your site https://analytics.google.com
 2. Add the required JavaScript to your page
@@ -97,4 +103,11 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 - take a mobile screen shot and add to your repository
 - Example:
 - https://raw.githubusercontent.com/mrmccormack/1000-vader/master/darth-mobile-small.jpg
+
+> Update your repository README.md file
+- add your own information in the README.md file  (this is the file you are looking at now)
+- `.md` meads a `markdown` file - **markdown** is a simple language used by all **professional programers**
+- it's fast and simple once you learn a few basic things.
+- INSTRUCTIONS HERE: https://guides.github.com/features/mastering-markdown/
+
 
