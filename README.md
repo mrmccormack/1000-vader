@@ -22,10 +22,10 @@
 
 > Netlify to serve up Github pages
 
-- Github can be SLOW to update the web view of your HTML (maybe allows less than 10 updates per hour)
-- Github is NOT slow for making changes
+- Github can be **SLOW** to update the web view of your HTML (maybe allows less than 10 updates per hour)
+- Github is **NOT** slow for making changes
 
-- Solution: **Have Netlify.com serve up you repository**
+- **Solution**: **Have Netlify.com serve up you repository**
 - Sign up to https://netlify.com with your Github crentials (username  / password)
 - Example
 - https://1000-darth-vader.netlify.com/  (you can change the subdomain to anything you want)
@@ -56,7 +56,7 @@ Since this is not in the root of a domain... you must remove
 > Google Analytics
 
 1. Add Google Analytics to your site https://analytics.google.com
-2. Add the required Javascrpt to your page
+2. Add the required JavaScript to your page
 3. Wait a day, and check out who has visited your site
 
 
@@ -64,3 +64,12 @@ Since this is not in the root of a domain... you must remove
 1. Change the HTML validation link to your URL
 
 
+
+> Website Performance
+
+- add your URL to https://www.webpagetest.org/   (github or netlify URL)
+- How good is your site
+- Take a screenshot and add to your repository:
+- https://github.com/mrmccormack/1000-vader/blob/master/websitespeedtest.png
+
+- add a link https://www.webpagetest.org/result/190216_DS_279c1e6136583f438ff1c1cf2f7e7c80/ to footer of your page
