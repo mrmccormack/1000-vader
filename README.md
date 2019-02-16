@@ -19,8 +19,27 @@
 
 > Note: this example has ALL of the requirements
 
+
+> Netlify to serve up Github pages
+
+- Github can be SLOW to update the web view of your HTML (maybe allows less than 10 updates per hour)
+- Github is NOT slow for making changes
+
+- Solution: **Have Netlify.com serve up you repository**
+- Sign up to https://netlify.com with your Github crentials (username  / password)
+- Example
+- https://1000-darth-vader.netlify.com/  (you can change the subdomain to anything you want)
+
+
 > Favicon - Favorite Icon...
 
+1. Find a .png for your character at least 128x128 pixels
+2. Generate a bunch of icons and the necessary code with https://www.favicon-generator.org/
+3. Add the code
+4. Download all the gnerated icons
+5. add all the icons to your repository - replacing the Darth Vader Icons
+
+> IMPORTANT
 Since this is not in the root of a domain... you must remove
 
 > Twitter Cards
