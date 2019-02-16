@@ -73,3 +73,19 @@ Since this is not in the root of a domain... you must remove
 - https://github.com/mrmccormack/1000-vader/blob/master/websitespeedtest.png
 
 - add a link https://www.webpagetest.org/result/190216_DS_279c1e6136583f438ff1c1cf2f7e7c80/ to footer of your page
+
+> Chrome Insepctore Audit (Lighthouse)
+
+- Using Chrome Inspec
+
+
+> Chrome Chonsole
+- if you can fix any errors show in Chrome Inspector `Console`
+- There are errors in Mr. M.'s Darth Vader 1000 -which are **easily** fixed
+
+```
+ERROR
+Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded over HTTPS, but requested an insecure image 'http://icons.iconarchive.com/icons/artua/star-wars/256/Darth-Vader-icon.png'. This content should also be served over HTTPS.
+
+```
+
