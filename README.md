@@ -49,6 +49,7 @@
 
 > IMPORTANT
 Since this is not in the root of a domain... you must remove the `/`
+
 `<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">` wrong
 
 **becomes**
