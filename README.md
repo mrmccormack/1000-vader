@@ -93,7 +93,12 @@ Since this is not in the root of a domain... you must remove
 
 # Chrome Inspector Audit (Lighthouse)
 
-- Using Chrome Inspector
+- Using Chrome Inspector - Audit to check performance
+- add screenshot to your respostitory
+- Example of Darth Vader
+- https://raw.githubusercontent.com/mrmccormack/1000-vader/master/chrome-inspector-audit-lighthhouse.png
+
+
 
 ---
 
