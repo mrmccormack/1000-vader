@@ -47,9 +47,11 @@
 4. Download all the generated icons
 5. add all the icons to your repository - replacing the Darth Vader Icons
 
----
-# IMPORTANT
-Since this is not in the root of a domain... you must remove
+> IMPORTANT
+Since this is not in the root of a domain... you must remove the `/`
+`<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">` wrong
+becomes
+`<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">` correct
 
 ---
 # Twitter Cards
@@ -83,7 +85,7 @@ Since this is not in the root of a domain... you must remove
 
 # Website Performance
 
-- add your URL to https://www.webpagetest.org/   (github or netlify URL)
+- add your URL to https://www.webpagetest.org/   (github.com or netlify.com URL)
 - How good is your site
 - Take a screenshot and add to your repository:
 - https://github.com/mrmccormack/1000-vader/blob/master/websitespeedtest.png
