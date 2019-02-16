@@ -16,8 +16,6 @@
 
 ---
 
-??? Maybe do netlify
-
 # Requirements for $1000 Website Assignment
 
 > Note: this example has ALL of the requirements
@@ -41,7 +39,7 @@
 1. Find a .png for your character at least 128x128 pixels
 2. Generate a bunch of icons and the necessary code with https://www.favicon-generator.org/
 3. Add the code
-4. Download all the gnerated icons
+4. Download all the generated icons
 5. add all the icons to your repository - replacing the Darth Vader Icons
 
 ---
@@ -68,13 +66,14 @@ Since this is not in the root of a domain... you must remove
 2. Add the required JavaScript to your page
 3. Wait a day, and check out who has visited your site
 
+---
 
-> HTML W3 Validation
+# HTML W3 Validation
 1. Change the HTML validation link to your URL
 
+---
 
-
-> Website Performance
+# Website Performance
 
 - add your URL to https://www.webpagetest.org/   (github or netlify URL)
 - How good is your site
@@ -83,12 +82,15 @@ Since this is not in the root of a domain... you must remove
 
 - add a link https://www.webpagetest.org/result/190216_DS_279c1e6136583f438ff1c1cf2f7e7c80/ to footer of your page
 
-> Chrome Insepctore Audit (Lighthouse)
+---
+
+# Chrome Inspector Audit (Lighthouse)
 
 - Using Chrome Inspec
 
+---
 
-> Chrome Chonsole
+# Chrome Console - fix errors
 - if you can fix any errors show in Chrome Inspector `Console`
 - There are errors in Mr. M.'s Darth Vader 1000 -which are **easily** fixed
 
@@ -98,7 +100,9 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 
 ```
 
-> Mobile Screen Shot
+---
+
+# Mobile Screen Shot
 
 - take a mobile screen shot and add to your repository
 - Example:
