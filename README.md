@@ -1,7 +1,10 @@
-# 1000-vader
+#  Requirements for $1,000 Website
+
+## Darth Vader
+
+![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/darth-mobile-small.jpg)
 
 > Requirements for a professional website
-
 
 # Steps
 
@@ -26,7 +29,7 @@
 - Github is **NOT** slow for making changes
 
 - **Solution**: **Have Netlify.com serve up you repository**
-- Sign up to https://netlify.com with your Github crentials (username  / password)
+- Sign up to https://netlify.com with your Github credentials (username  / password)
 - Example
 - https://1000-darth-vader.netlify.com/  (you can change the subdomain to anything you want)
 
@@ -88,4 +91,10 @@ ERROR
 Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded over HTTPS, but requested an insecure image 'http://icons.iconarchive.com/icons/artua/star-wars/256/Darth-Vader-icon.png'. This content should also be served over HTTPS.
 
 ```
+
+> Mobile Screen Shot
+
+- take a mobile screen shot and add to your repository
+- Example:
+- https://raw.githubusercontent.com/mrmccormack/1000-vader/master/darth-mobile-small.jpg
 
