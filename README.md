@@ -90,7 +90,7 @@ Since this is not in the root of a domain... you must remove the `/`
 
 # Website Performance
 
-- add your URL to https://www.webpagetest.org/   (github.com or netlify.com URL)
+- add your URL to https://www.webpagetest.org/   (https://github.com or netlify.com URL)
 - How good is your site
 - Take a screenshot and add to your repository:
 - https://github.com/mrmccormack/1000-vader/blob/master/websitespeedtest.png
@@ -133,6 +133,16 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 - `.md` meads a `markdown` file - **markdown** is a simple language used by all **professional programers**
 - it's fast and simple once you learn a few basic things.
 - INSTRUCTIONS HERE: https://guides.github.com/features/mastering-markdown/
+
+
+
+---
+# FontAwesome Challenge
+
+- in the Nav bar, there are links to social sites
+- ADD some FontAwesome icons to make it look better.
+- Use some of the code from https://startbootstrap.com/themes/grayscale/ as a reference
+- Good luck!
 
 
 ---
