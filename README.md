@@ -144,6 +144,14 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 - Use some of the code from https://startbootstrap.com/themes/grayscale/ as a reference
 - Good luck!
 
+---
+# Links to YOUR Github.com repository
+
+- change the footer to link to YOUR repository
+
+```
+<small><a href="https://github.com/mrmccormack/1000-vader">https://github.com/mrmccormack/1000-vader</a></small>
+```
 
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/11a7f722-2a18-4846-9e6d-baded153c8a8/deploy-status)](https://app.netlify.com/sites/1000-darth-vader/deploys)
