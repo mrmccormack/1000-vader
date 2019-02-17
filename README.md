@@ -83,6 +83,12 @@ Since this is not in the root of a domain... you must remove the `/`
 
 ---
 
+# Your OWN Placeholder images
+- Reference: https://placeholder.com/
+- Change the text and color of placeholder images to suit your character
+
+---
+
 # HTML W3 Validation
 1. Change the HTML validation link to your URL
 
