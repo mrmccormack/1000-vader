@@ -135,3 +135,5 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 - INSTRUCTIONS HERE: https://guides.github.com/features/mastering-markdown/
 
 
+---
+[![Netlify Status](https://api.netlify.com/api/v1/badges/11a7f722-2a18-4846-9e6d-baded153c8a8/deploy-status)](https://app.netlify.com/sites/1000-darth-vader/deploys)
