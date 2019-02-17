@@ -165,8 +165,10 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 ---
 # Your OWN Social Image using Adobe Spark
 
-- Create your own image for your own README.md file
-- Must use https://spark.adobe.com/sp/  (Create Graphic)
+- create your own image for your own README.md file
+- your image will replace Mr. McCormack's ** Spark image at top of README.md
+- must use https://spark.adobe.com/sp/  (Create Graphic)
+- You must edit the README.md file to change this image
 - you can link to your Adobe Spark image
 
 ---
