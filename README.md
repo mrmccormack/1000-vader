@@ -161,3 +161,19 @@ Mixed Content: The page at 'https://1000-darth-vader.netlify.com/' was loaded ov
 
 ---
 [![Netlify Status](https://api.netlify.com/api/v1/badges/11a7f722-2a18-4846-9e6d-baded153c8a8/deploy-status)](https://app.netlify.com/sites/1000-darth-vader/deploys)
+
+---
+# Your OWN Social Image using Adobe Spark
+
+- Create your own image for your own README.md file
+- Must use https://spark.adobe.com/sp/  (Create Graphic)
+- you can link to your Adobe Spark image
+
+---
+
+
+# THE END !
+- hope you enjoy learning the PROFESSIONAL techniques  to create websites
+
+
+---
