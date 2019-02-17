@@ -41,13 +41,15 @@
 ---
 # Favicon - Favorite Icon...
 
-1. Find a .png for your character at least 128x128 pixels
-2. Generate a bunch of icons and the necessary code with https://www.favicon-generator.org/
+1. Find a .png for your character at least 128x128 pixels (260X260 is recommended)
+2. Generate a bunch of icons and the necessary code with https://realfavicongenerator.net
 3. Add the code
 4. Download all the generated icons
 5. add all the icons to your repository - replacing the Darth Vader Icons
+6. VERIFY you icon is working with https://realfavicongenerator.net/favicon_checker
 
 > IMPORTANT
+
 Since this is not in the root of a domain... you must remove the `/`
 
 `<link rel="apple-touch-icon" sizes="57x57" href="/apple-icon-57x57.png">` wrong
