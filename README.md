@@ -13,9 +13,9 @@
 
 # Steps
 
-1. Log in to Github account
+1. Log in to `Github` account
 2. Fork this `repository`
-3. Think of a *character* other than Darth Vader
+3. Think of a *character* other than *Darth Vader*
 4. Work **JUST** in Github, by editing the `index.html` file (*TIP*: you could copy and paste from your favorite editor - or let Mr. M. show you how to REALLY use Github - that would take a good bit of time to learn 0 we'll do it later in IMD courses anyways.)
 5. Change all links, text, references / images to your character
 6. See requirements below
