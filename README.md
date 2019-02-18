@@ -41,6 +41,7 @@
 
 
 ---
+
 # Favicon - Favorite Icon...
 
 1. Find a .png for your character at least 128x128 pixels (260X260 is recommended)
