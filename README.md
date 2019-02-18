@@ -23,6 +23,7 @@
 ---
 
 # Requirements for $1000 Website Assignment
+> Also for IM415 Portfolio Assignment
 
 > Note: this example has ALL of the requirements
 
