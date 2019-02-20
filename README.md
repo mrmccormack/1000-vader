@@ -77,6 +77,10 @@ Since this is not in the root of a domain... you must remove the `/`
 2. Create your own FreshPing pubic status page https://statuspage.freshping.io/5040-mrmccormackdarthvaderpage1000
 
 
+## Other monitoring tools Mr. M. has used (If FreshPing doesn't work)
+- https://www.pingdom.com
+- https://uptimerobot.com/
+
 ---
 # Google Analytics
 
