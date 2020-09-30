@@ -1,27 +1,18 @@
 ##  Requirements for $1,000 Website and IM415 Portfolios
-
 ![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/pros-only.png)
 ## Darth Vader
 
 - View this repository on https://mrmccormack.github.io/1000-vader/
-
-
-
 ![](https://raw.githubusercontent.com/mrmccormack/1000-vader/master/darth-mobile-small.jpg)
-
 > Requirements for a professional website
-
 # Steps
-
 1. Log in to `Github` account
 2. Fork this `repository`
 3. Think of a *character* other than *Darth Vader*
 4. Work **JUST** in Github, by editing the `index.html` file (*TIP*: you could copy and paste from your favorite editor - or let Mr. M. show you how to REALLY use Github - that would take a good bit of time to learn 0 we'll do it later in IMD courses anyways.)
 5. Change all links, text, references / images to your character
 6. See requirements below
-
 ---
-
 # Requirements for $1000 Website Assignment
 > Also for IM415 Portfolio Assignment
 
